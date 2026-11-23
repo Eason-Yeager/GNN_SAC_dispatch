@@ -1,0 +1,65 @@
+{
+  "gnn": {
+    "seen_cost": 731.087232405315,
+    "seen_vviol": 0.004166666666666667,
+    "unseen_cost": 683.158126103974,
+    "unseen_vviol": 0.0,
+    "extra_cost": 1040.7262327933017,
+    "extra_vviol": 6.875,
+    "gen_gap_pct": -6.555866957716078
+  },
+  "mlp": {
+    "seen_cost": 696.6801983057201,
+    "seen_vviol": 0.004166666666666667,
+    "unseen_cost": 652.1637723891523,
+    "unseen_vviol": 0.0,
+    "extra_cost": null,
+    "extra_vviol": null,
+    "gen_gap_pct": -6.389793484130703
+  },
+  "rule": {
+    "seen_cost": 736.8133860320995,
+    "seen_vviol": 3.9791666666666665,
+    "unseen_cost": 684.120279062835,
+    "unseen_vviol": 0.004166666666666667,
+    "extra_cost": 1493.9979037958078,
+    "extra_vviol": 47.875
+  },
+  "size_sweep": [
+    {
+      "size": 6,
+      "gnn_cost": 535.0143371597075,
+      "gnn_vviol": 0.0,
+      "rule_cost": 525.6862874988989,
+      "rule_vviol": 0.0
+    },
+    {
+      "size": 8,
+      "gnn_cost": 620.8840223317277,
+      "gnn_vviol": 0.0,
+      "rule_cost": 623.032756248254,
+      "rule_vviol": 0.6875
+    },
+    {
+      "size": 10,
+      "gnn_cost": 648.1493414935644,
+      "gnn_vviol": 1.025,
+      "rule_cost": 999.2173830396426,
+      "rule_vviol": 10.31875
+    },
+    {
+      "size": 12,
+      "gnn_cost": 1094.8018487315394,
+      "gnn_vviol": 17.775,
+      "rule_cost": 1100.7835870741708,
+      "rule_vviol": 58.3375
+    },
+    {
+      "size": 14,
+      "gnn_cost": 1240.5933831686978,
+      "gnn_vviol": 0.6125,
+      "rule_cost": 1737.2182848448476,
+      "rule_vviol": 8.29375
+    }
+  ]
+}

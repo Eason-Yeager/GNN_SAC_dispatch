@@ -1,0 +1,46 @@
+{
+  "train_sizes": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "size_sweep": [
+    {
+      "size": 8,
+      "gnn_cost": 609.2025726687457,
+      "gnn_vviol": 0.0,
+      "rule_cost": 623.032756248254,
+      "rule_vviol": 0.6875
+    },
+    {
+      "size": 10,
+      "gnn_cost": 638.1144361866333,
+      "gnn_vviol": 0.5625,
+      "rule_cost": 999.2173830396426,
+      "rule_vviol": 10.31875
+    },
+    {
+      "size": 12,
+      "gnn_cost": 1074.6754061312556,
+      "gnn_vviol": 16.6,
+      "rule_cost": 1100.7835870741708,
+      "rule_vviol": 58.3375
+    },
+    {
+      "size": 14,
+      "gnn_cost": 1219.554547267619,
+      "gnn_vviol": 0.4,
+      "rule_cost": 1737.2182848448476,
+      "rule_vviol": 8.29375
+    },
+    {
+      "size": 16,
+      "gnn_cost": 1611.324507255274,
+      "gnn_vviol": 3.51875,
+      "rule_cost": 4179.661694319721,
+      "rule_vviol": 28.85625
+    }
+  ]
+}

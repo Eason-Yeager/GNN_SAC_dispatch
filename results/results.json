@@ -1,0 +1,74 @@
+{
+  "vanilla": {
+    "mean_cost": 165.90452533573455,
+    "mean_cost_std": 4.2563780956921295,
+    "cvar90_cost": 228.93716213857442,
+    "cvar90_cost_std": 5.2615403828150615,
+    "mean_viol": 8.56,
+    "mean_viol_std": 1.1538052984219942,
+    "viol_rate": 1.0,
+    "viol_rate_std": 0.0,
+    "renew_util": 0.9982287475293156,
+    "renew_util_std": 0.00010349089281144764
+  },
+  "safe": {
+    "mean_cost": 167.1623948639702,
+    "mean_cost_std": 5.380555436374527,
+    "cvar90_cost": 228.01340583198476,
+    "cvar90_cost_std": 6.33627845720292,
+    "mean_viol": 0.0,
+    "mean_viol_std": 0.0,
+    "viol_rate": 0.0,
+    "viol_rate_std": 0.0,
+    "renew_util": 0.9987425593447442,
+    "renew_util_std": 0.0
+  },
+  "cvar": {
+    "mean_cost": 166.70254621730464,
+    "mean_cost_std": 5.464922052946066,
+    "cvar90_cost": 228.7537913568169,
+    "cvar90_cost_std": 4.810068554625829,
+    "mean_viol": 9.486666666666666,
+    "mean_viol_std": 0.8468110113176901,
+    "viol_rate": 1.0,
+    "viol_rate_std": 0.0,
+    "renew_util": 0.9976819134803243,
+    "renew_util_std": 0.0003035427690115296
+  },
+  "ours": {
+    "mean_cost": 165.50166555644856,
+    "mean_cost_std": 7.705064715006859,
+    "cvar90_cost": 226.21839634319517,
+    "cvar90_cost_std": 7.718963093388416,
+    "mean_viol": 0.0,
+    "mean_viol_std": 0.0,
+    "viol_rate": 0.0,
+    "viol_rate_std": 0.0,
+    "renew_util": 0.9987425593447442,
+    "renew_util_std": 0.0
+  },
+  "rule": {
+    "mean_cost": 232.59633540388097,
+    "cvar90_cost": 296.4929210740171,
+    "mean_viol": 0.0,
+    "viol_rate": 0.0,
+    "renew_util": 0.9969597979659224,
+    "mean_cost_std": 0.0,
+    "cvar90_cost_std": 0.0,
+    "mean_viol_std": 0.0,
+    "viol_rate_std": 0.0,
+    "renew_util_std": 0.0
+  },
+  "greedy": {
+    "mean_cost": 203.17273882487433,
+    "cvar90_cost": 272.04710777134903,
+    "mean_viol": 0.0,
+    "viol_rate": 0.0,
+    "renew_util": 0.9987425593447442,
+    "mean_cost_std": 0.0,
+    "cvar90_cost_std": 0.0,
+    "mean_viol_std": 0.0,
+    "viol_rate_std": 0.0,
+    "renew_util_std": 0.0
+  }
+}
